@@ -4,4 +4,5 @@ The gathering articles through the NY Times developer API, preprocessing of text
 analyzing (multi word expression / Name entity recognition, Sentiment Analysis, Word2Vec, Topic Modeling) and 
 finally a Tableau Dashboard to summarize the findings.
 
-Project is currently in progress...
+https://public.tableau.com/views/NYTimesArticles/Story1?:embed=y&:display_count=yes&publish=yes
+
